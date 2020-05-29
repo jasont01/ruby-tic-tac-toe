@@ -20,4 +20,6 @@ This is a project from the Ruby Programming course in The Odin Project's curricu
 The goal of this project is to get you familiar with object oriented programming.<br />
 A link to the full description of the assignment can be found above.<br />
 <br />
-<!-- A live version of my solution can be found on<a href="https://repl.it/@jasont01">repl.it</a> -->
+A live version of my solution can be found here: 
+[![Run on Repl.it](https://repl.it/badge/github/jasont01/tic-tac-toe)](https://repl.it/github/jasont01/tic-tac-toe)
+
